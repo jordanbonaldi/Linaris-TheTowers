@@ -1,0 +1,7 @@
+name: TheTowers
+author: Neferett
+version: 1.0.1
+main: net.neferett.linaris.towers.TowersPlugin
+commands:
+  towers:
+    permission: towers.admin
